@@ -12,7 +12,7 @@ For further details, please refer to our published work on TDSC Dataset: [Link t
 
 This project uses three publicly available dysarthric speech datasets:
 
-- [**TDSC - Tamil Dysarthric Speech Corpus**]([https://asr-ssn.github.io/tdsc/](https://catalog.ldc.upenn.edu/LDC2021S04))  
+- [**TDSC - Tamil Dysarthric Speech Corpus**](https://catalog.ldc.upenn.edu/LDC2021S04)  
 - [**TORGO Database**](https://www.cs.toronto.edu/~complingweb/data/TORGO/torgo.html)  
 - [**UA-Speech Corpus**](https://speechtechnology.web.illinois.edu/data/)
 
