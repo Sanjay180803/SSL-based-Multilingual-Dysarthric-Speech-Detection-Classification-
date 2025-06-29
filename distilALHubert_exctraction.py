@@ -145,6 +145,7 @@ all_labels = np.array(all_labels)
 print("Embeddings shape:", all_embeddings.shape)
 print("Labels shape:", all_labels.shape)
 
+## Replace this portion with the CNN Model definition
 from sklearn.svm import SVC
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
