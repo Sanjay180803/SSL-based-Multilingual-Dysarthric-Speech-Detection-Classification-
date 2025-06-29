@@ -127,7 +127,7 @@ Update the following variables in your extraction and classification scripts so 
 Below are our key performance tables comparing SVM and CNN classifiers across datasets, using both DistilALHuBERT and wav2vec2 models.
 
 ### 🔹 Dysarthric Severity Classification with DistilALHuBERT
-![Dysarthric Classification using DistilALHuBERT](Results/Dysarthric_Classification_using_DistilALHuBERT.png)
+![Dysarthric Classification using DistilALHuBERT](Results/Dysarthric%20Classification%20using%20DistilALHuBERT.png)
 
 ### 🔹 Dysarthric Severity Classification with wav2vec2
 ![Dysarthric Classification using wav2vec2](Results/Dysarthric_Classification_using_Wav2vec2.png)
@@ -138,4 +138,5 @@ Below are our key performance tables comparing SVM and CNN classifiers across da
 ### 🔹 Dysarthric Detection with wav2vec2
 ![Dysarthric Detection using wav2vec2](Results/Dysarthric_Detection_using_Wav2vec2.png)
 
+https://github.com/Sanjay180803/SSL-based-Multilingual-Dysarthric-Speech-Detection-Classification-/blob/main/Results/Dysarthric%20Classification%20using%20Wav2vec2.png
 
