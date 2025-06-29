@@ -2,7 +2,7 @@
 
 Accurate and early detection of dysarthria severity from speech can transform clinical workflows, enabling timely, non-invasive interventions for individuals with neuromotor speech disorders. This work investigates the effect of embedding layer depth on classification performance using two self-supervised speech models—Wav2Vec2-BASE and DistilALHuBERT—evaluating them on three datasets: UA-Speech, TORGO, and the Tamil Dysarthric Speech Corpus (TDSC). Our experiments show that embeddings from initial and intermediate layers consistently outperform final-layer embeddings across all tasks and datasets. We present novel findings indicating that intermediate layers, especially Layer 4, capture articulatory features relevant for severity assessment better than final layers, especially in morphologically rich languages like Tamil.
 
-For further details, please refer to our published work on TDSC Dataset: [Your Published Paper]((https://aclanthology.org/2024.icon-1.74/)).
+For further details, please refer to our published work on TDSC Dataset: [Your Published Paper](https://aclanthology.org/2024.icon-1.74/).
 
 ## Datasets
 
