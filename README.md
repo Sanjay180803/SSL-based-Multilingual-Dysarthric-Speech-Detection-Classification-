@@ -122,4 +122,20 @@ Update the following variables in your extraction and classification scripts so 
 
 **Note:** The provided example script [`distilALhubert_extraction.txt`](distilALhubert_extraction.txt) covers the complete pipeline for HuBERT, including model loading, embedding extraction, dataset structure replication, and a sample SVM training process. (Similar Code is followed for Wav2vec2)
 
+## 📊 Evaluation Results
+
+Below are our key performance tables comparing SVM and CNN classifiers across datasets, using both DistilALHuBERT and wav2vec2 models.
+
+### 🔹 Dysarthric Severity Classification with DistilALHuBERT
+![Dysarthric Classification using DistilALHuBERT](Results/Dysarthric_Classification_using_DistilALHuBERT.png)
+
+### 🔹 Dysarthric Severity Classification with wav2vec2
+![Dysarthric Classification using wav2vec2](Results/Dysarthric_Classification_using_Wav2vec2.png)
+
+### 🔹 Dysarthric Detection with DistilALHuBERT
+![Dysarthric Detection using DistilALHuBERT](Results/Dysarthric_Detection_using_DistilALHuBERT.png)
+
+### 🔹 Dysarthric Detection with wav2vec2
+![Dysarthric Detection using wav2vec2](Results/Dysarthric_Detection_using_Wav2vec2.png)
+
 
