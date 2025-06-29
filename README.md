@@ -4,6 +4,10 @@ Accurate and early detection of dysarthria severity from speech can transform cl
 
 For further details, please refer to our published work on TDSC Dataset: [Link to Paper](https://aclanthology.org/2024.icon-1.74/).
 
+## Schematic Block Diagram
+![Model Architecture](Speech.png)
+
+
 ## Datasets
 
 This project uses three publicly available dysarthric speech datasets:
